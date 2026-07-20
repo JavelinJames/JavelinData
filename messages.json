@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "categories": {
+    "morning": {
+      "enabled": true,
+      "messages": [
+        "Good morning, {firstName}. Hope today goes smoothly.",
+        "Morning! Ready for a productive day?",
+        "Welcome back, {firstName}.",
+        "A fresh day, a fresh start.",
+        "Good morning! Let's make today count.",
+        "Hope your coffee is doing its job!",
+        "Another day, another opportunity.",
+        "Morning! One task at a time.",
+        "Welcome in. Everything is ready when you are.",
+        "Here's to a great day ahead."
+      ]
+    },
+    "afternoon": {
+      "enabled": true,
+      "messages": [
+        "Good afternoon!",
+        "Hope your day is going well.",
+        "Welcome back from lunch.",
+        "The afternoon is a great time to tackle priorities.",
+        "Keep up the great work.",
+        "You've made it through the morning!",
+        "Hope the rest of your day goes smoothly.",
+        "Afternoon check-in: you've got this."
+      ]
+    },
+    "evening": {
+      "enabled": true,
+      "messages": [
+        "Good evening.",
+        "Thanks for everything you've accomplished today.",
+        "Hope the rest of your evening goes well.",
+        "Evening mode activated.",
+        "Wrapping up another productive day."
+      ]
+    },
+    "welcomeBack": {
+      "enabled": true,
+      "messages": [
+        "Welcome back!",
+        "Good to see you again.",
+        "Ready to pick up where you left off?",
+        "Everything is waiting for you.",
+        "Let's continue where we left off."
+      ]
+    },
+    "lunchSoon": {
+      "enabled": true,
+      "messages": [
+        "Lunch is coming up soon.",
+        "Don't forget to take a break today.",
+        "A quick recharge can make the afternoon easier.",
+        "You're getting close to lunch time.",
+        "Time flies when you're productive!"
+      ]
+    },
+    "afterLunch": {
+      "enabled": true,
+      "messages": [
+        "Hope lunch hit the spot.",
+        "Welcome back! Let's finish the day strong.",
+        "Time to ease back into the afternoon.",
+        "Hope you're feeling refreshed."
+      ]
+    },
+    "endOfShift": {
+      "enabled": true,
+      "messages": [
+        "You're almost at the finish line.",
+        "Only a little longer to go.",
+        "Time to start wrapping things up.",
+        "Great work today.",
+        "The end of the shift is in sight."
+      ]
+    },
+    "hydration": {
+      "enabled": true,
+      "messages": [
+        "Take a moment to drink some water.",
+        "Staying hydrated helps maintain focus.",
+        "A quick water break can help recharge."
+      ]
+    },
+    "stretch": {
+      "enabled": true,
+      "messages": [
+        "Stand up and stretch for a minute.",
+        "A quick stretch can help reduce fatigue.",
+        "Roll your shoulders and give your eyes a short break."
+      ]
+    },
+    "productivity": {
+      "enabled": true,
+      "messages": [
+        "Small progress is still progress.",
+        "Focus on one task at a time.",
+        "Checking off one item often builds momentum.",
+        "Today's effort creates tomorrow's results.",
+        "Consistency beats perfection."
+      ]
+    },
+    "leasingTips": {
+      "enabled": true,
+      "messages": [
+        "Confirm availability before quoting pricing.",
+        "Personalize each interaction whenever possible.",
+        "Follow up promptly after every tour.",
+        "Listen first, recommend second.",
+        "Clear communication builds confidence."
+      ]
+    },
+    "customerService": {
+      "enabled": true,
+      "messages": [
+        "Every interaction is an opportunity to leave a positive impression.",
+        "People remember how you made them feel.",
+        "Patience goes a long way.",
+        "A warm greeting can set the tone for the entire conversation.",
+        "Great service often comes down to great listening."
+      ]
+    },
+    "friday": {
+      "enabled": true,
+      "messages": [
+        "Happy Friday!",
+        "Finish the week strong.",
+        "One more push before the weekend.",
+        "Hope you've had a productive week."
+      ]
+    },
+    "monday": {
+      "enabled": true,
+      "messages": [
+        "Happy Monday!",
+        "A new week means new opportunities.",
+        "Set the tone for a successful week.",
+        "Welcome to a fresh start."
+      ]
+    },
+    "seasonal": {
+      "enabled": true,
+      "messages": [
+        "Stay cool during today's warm weather.",
+        "Drive safely if conditions are slippery.",
+        "Enjoy the changing seasons.",
+        "Take advantage of the sunshine if you can."
+      ]
+    }
+  }
+}
