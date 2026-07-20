@@ -1,155 +1,608 @@
 {
   "version": 1,
-  "categories": {
+  "schemaVersion": 1,
+  "libraryVersion": 2,
+  "categorySettings": {
     "morning": {
-      "enabled": true,
-      "messages": [
-        "Good morning, {firstName}. Hope today goes smoothly.",
-        "Morning! Ready for a productive day?",
-        "Welcome back, {firstName}.",
-        "A fresh day, a fresh start.",
-        "Good morning! Let's make today count.",
-        "Hope your coffee is doing its job!",
-        "Another day, another opportunity.",
-        "Morning! One task at a time.",
-        "Welcome in. Everything is ready when you are.",
-        "Here's to a great day ahead."
-      ]
+      "enabled": true
     },
     "afternoon": {
-      "enabled": true,
-      "messages": [
-        "Good afternoon!",
-        "Hope your day is going well.",
-        "Welcome back from lunch.",
-        "The afternoon is a great time to tackle priorities.",
-        "Keep up the great work.",
-        "You've made it through the morning!",
-        "Hope the rest of your day goes smoothly.",
-        "Afternoon check-in: you've got this."
-      ]
+      "enabled": true
     },
     "evening": {
-      "enabled": true,
-      "messages": [
-        "Good evening.",
-        "Thanks for everything you've accomplished today.",
-        "Hope the rest of your evening goes well.",
-        "Evening mode activated.",
-        "Wrapping up another productive day."
-      ]
+      "enabled": true
     },
     "welcomeBack": {
-      "enabled": true,
-      "messages": [
-        "Welcome back!",
-        "Good to see you again.",
-        "Ready to pick up where you left off?",
-        "Everything is waiting for you.",
-        "Let's continue where we left off."
-      ]
+      "enabled": true
     },
     "lunchSoon": {
-      "enabled": true,
-      "messages": [
-        "Lunch is coming up soon.",
-        "Don't forget to take a break today.",
-        "A quick recharge can make the afternoon easier.",
-        "You're getting close to lunch time.",
-        "Time flies when you're productive!"
-      ]
+      "enabled": true
     },
     "afterLunch": {
-      "enabled": true,
-      "messages": [
-        "Hope lunch hit the spot.",
-        "Welcome back! Let's finish the day strong.",
-        "Time to ease back into the afternoon.",
-        "Hope you're feeling refreshed."
-      ]
+      "enabled": true
     },
     "endOfShift": {
-      "enabled": true,
-      "messages": [
-        "You're almost at the finish line.",
-        "Only a little longer to go.",
-        "Time to start wrapping things up.",
-        "Great work today.",
-        "The end of the shift is in sight."
-      ]
+      "enabled": true
     },
     "hydration": {
-      "enabled": true,
-      "messages": [
-        "Take a moment to drink some water.",
-        "Staying hydrated helps maintain focus.",
-        "A quick water break can help recharge."
-      ]
+      "enabled": true
     },
     "stretch": {
-      "enabled": true,
-      "messages": [
-        "Stand up and stretch for a minute.",
-        "A quick stretch can help reduce fatigue.",
-        "Roll your shoulders and give your eyes a short break."
-      ]
+      "enabled": true
     },
     "productivity": {
-      "enabled": true,
-      "messages": [
-        "Small progress is still progress.",
-        "Focus on one task at a time.",
-        "Checking off one item often builds momentum.",
-        "Today's effort creates tomorrow's results.",
-        "Consistency beats perfection."
-      ]
+      "enabled": true
     },
     "leasingTips": {
-      "enabled": true,
-      "messages": [
-        "Confirm availability before quoting pricing.",
-        "Personalize each interaction whenever possible.",
-        "Follow up promptly after every tour.",
-        "Listen first, recommend second.",
-        "Clear communication builds confidence."
-      ]
+      "enabled": true
     },
     "customerService": {
-      "enabled": true,
-      "messages": [
-        "Every interaction is an opportunity to leave a positive impression.",
-        "People remember how you made them feel.",
-        "Patience goes a long way.",
-        "A warm greeting can set the tone for the entire conversation.",
-        "Great service often comes down to great listening."
-      ]
+      "enabled": true
     },
     "friday": {
-      "enabled": true,
-      "messages": [
-        "Happy Friday!",
-        "Finish the week strong.",
-        "One more push before the weekend.",
-        "Hope you've had a productive week."
-      ]
+      "enabled": true
     },
     "monday": {
-      "enabled": true,
-      "messages": [
-        "Happy Monday!",
-        "A new week means new opportunities.",
-        "Set the tone for a successful week.",
-        "Welcome to a fresh start."
-      ]
+      "enabled": true
     },
     "seasonal": {
-      "enabled": true,
-      "messages": [
-        "Stay cool during today's warm weather.",
-        "Drive safely if conditions are slippery.",
-        "Enjoy the changing seasons.",
-        "Take advantage of the sunshine if you can."
-      ]
+      "enabled": true
     }
-  }
+  },
+  "categories": [
+    "afterLunch",
+    "afternoon",
+    "customerService",
+    "endOfShift",
+    "evening",
+    "friday",
+    "hydration",
+    "leasingTips",
+    "lunchSoon",
+    "monday",
+    "morning",
+    "productivity",
+    "Quotes",
+    "seasonal",
+    "stretch",
+    "welcomeBack"
+  ],
+  "messages": [
+    {
+      "text": "Good morning, {firstName}. Hope today goes smoothly.",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0001",
+      "status": "published"
+    },
+    {
+      "text": "Morning! Ready for a productive day?",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0002",
+      "status": "published"
+    },
+    {
+      "text": "Welcome back, {firstName}.",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0003",
+      "status": "published"
+    },
+    {
+      "text": "A fresh day, a fresh start.",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0004",
+      "status": "published"
+    },
+    {
+      "text": "Good morning! Let's make today count.",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0005",
+      "status": "published"
+    },
+    {
+      "text": "Hope your coffee is doing its job!",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0006",
+      "status": "published"
+    },
+    {
+      "text": "Another day, another opportunity.",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0007",
+      "status": "published"
+    },
+    {
+      "text": "Morning! One task at a time.",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0008",
+      "status": "published"
+    },
+    {
+      "text": "Welcome in. Everything is ready when you are.",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0009",
+      "status": "published"
+    },
+    {
+      "text": "Here's to a great day ahead.",
+      "category": "morning",
+      "enabled": true,
+      "id": "message-0010",
+      "status": "published"
+    },
+    {
+      "text": "Good afternoon!",
+      "category": "afternoon",
+      "enabled": true,
+      "id": "message-0011",
+      "status": "published"
+    },
+    {
+      "text": "Hope your day is going well.",
+      "category": "afternoon",
+      "enabled": true,
+      "id": "message-0012",
+      "status": "published"
+    },
+    {
+      "text": "Welcome back from lunch.",
+      "category": "afternoon",
+      "enabled": true,
+      "id": "message-0013",
+      "status": "published"
+    },
+    {
+      "text": "The afternoon is a great time to tackle priorities.",
+      "category": "afternoon",
+      "enabled": true,
+      "id": "message-0014",
+      "status": "published"
+    },
+    {
+      "text": "Keep up the great work.",
+      "category": "afternoon",
+      "enabled": true,
+      "id": "message-0015",
+      "status": "published"
+    },
+    {
+      "text": "You've made it through the morning!",
+      "category": "afternoon",
+      "enabled": true,
+      "id": "message-0016",
+      "status": "published"
+    },
+    {
+      "text": "Hope the rest of your day goes smoothly.",
+      "category": "afternoon",
+      "enabled": true,
+      "id": "message-0017",
+      "status": "published"
+    },
+    {
+      "text": "Afternoon check-in: you've got this.",
+      "category": "afternoon",
+      "enabled": true,
+      "id": "message-0018",
+      "status": "published"
+    },
+    {
+      "text": "Good evening.",
+      "category": "evening",
+      "enabled": true,
+      "id": "message-0019",
+      "status": "published"
+    },
+    {
+      "text": "Thanks for everything you've accomplished today.",
+      "category": "evening",
+      "enabled": true,
+      "id": "message-0020",
+      "status": "published"
+    },
+    {
+      "text": "Hope the rest of your evening goes well.",
+      "category": "evening",
+      "enabled": true,
+      "id": "message-0021",
+      "status": "published"
+    },
+    {
+      "text": "Evening mode activated.",
+      "category": "evening",
+      "enabled": true,
+      "id": "message-0022",
+      "status": "published"
+    },
+    {
+      "text": "Wrapping up another productive day.",
+      "category": "evening",
+      "enabled": true,
+      "id": "message-0023",
+      "status": "published"
+    },
+    {
+      "text": "Welcome back!",
+      "category": "welcomeBack",
+      "enabled": true,
+      "id": "message-0024",
+      "status": "published"
+    },
+    {
+      "text": "Good to see you again.",
+      "category": "welcomeBack",
+      "enabled": true,
+      "id": "message-0025",
+      "status": "published"
+    },
+    {
+      "text": "Ready to pick up where you left off?",
+      "category": "welcomeBack",
+      "enabled": true,
+      "id": "message-0026",
+      "status": "published"
+    },
+    {
+      "text": "Everything is waiting for you.",
+      "category": "welcomeBack",
+      "enabled": true,
+      "id": "message-0027",
+      "status": "published"
+    },
+    {
+      "text": "Let's continue where we left off.",
+      "category": "welcomeBack",
+      "enabled": true,
+      "id": "message-0028",
+      "status": "published"
+    },
+    {
+      "text": "Lunch is coming up soon.",
+      "category": "lunchSoon",
+      "enabled": true,
+      "id": "message-0029",
+      "status": "published"
+    },
+    {
+      "text": "Don't forget to take a break today.",
+      "category": "lunchSoon",
+      "enabled": true,
+      "id": "message-0030",
+      "status": "published"
+    },
+    {
+      "text": "A quick recharge can make the afternoon easier.",
+      "category": "lunchSoon",
+      "enabled": true,
+      "id": "message-0031",
+      "status": "published"
+    },
+    {
+      "text": "You're getting close to lunch time.",
+      "category": "lunchSoon",
+      "enabled": true,
+      "id": "message-0032",
+      "status": "published"
+    },
+    {
+      "text": "Time flies when you're productive!",
+      "category": "lunchSoon",
+      "enabled": true,
+      "id": "message-0033",
+      "status": "published"
+    },
+    {
+      "text": "Hope lunch hit the spot.",
+      "category": "afterLunch",
+      "enabled": true,
+      "id": "message-0034",
+      "status": "published"
+    },
+    {
+      "text": "Welcome back! Let's finish the day strong.",
+      "category": "afterLunch",
+      "enabled": true,
+      "id": "message-0035",
+      "status": "published"
+    },
+    {
+      "text": "Time to ease back into the afternoon.",
+      "category": "afterLunch",
+      "enabled": true,
+      "id": "message-0036",
+      "status": "published"
+    },
+    {
+      "text": "Hope you're feeling refreshed.",
+      "category": "afterLunch",
+      "enabled": true,
+      "id": "message-0037",
+      "status": "published"
+    },
+    {
+      "text": "You're almost at the finish line.",
+      "category": "endOfShift",
+      "enabled": true,
+      "id": "message-0038",
+      "status": "published"
+    },
+    {
+      "text": "Only a little longer to go.",
+      "category": "endOfShift",
+      "enabled": true,
+      "id": "message-0039",
+      "status": "published"
+    },
+    {
+      "text": "Time to start wrapping things up.",
+      "category": "endOfShift",
+      "enabled": true,
+      "id": "message-0040",
+      "status": "published"
+    },
+    {
+      "text": "Great work today.",
+      "category": "endOfShift",
+      "enabled": true,
+      "id": "message-0041",
+      "status": "published"
+    },
+    {
+      "text": "The end of the shift is in sight.",
+      "category": "endOfShift",
+      "enabled": true,
+      "id": "message-0042",
+      "status": "published"
+    },
+    {
+      "text": "Take a moment to drink some water.",
+      "category": "hydration",
+      "enabled": true,
+      "id": "message-0043",
+      "status": "published"
+    },
+    {
+      "text": "Staying hydrated helps maintain focus.",
+      "category": "hydration",
+      "enabled": true,
+      "id": "message-0044",
+      "status": "published"
+    },
+    {
+      "text": "A quick water break can help recharge.",
+      "category": "hydration",
+      "enabled": true,
+      "id": "message-0045",
+      "status": "published"
+    },
+    {
+      "text": "Stand up and stretch for a minute.",
+      "category": "stretch",
+      "enabled": true,
+      "id": "message-0046",
+      "status": "published"
+    },
+    {
+      "text": "A quick stretch can help reduce fatigue.",
+      "category": "stretch",
+      "enabled": true,
+      "id": "message-0047",
+      "status": "published"
+    },
+    {
+      "text": "Roll your shoulders and give your eyes a short break.",
+      "category": "stretch",
+      "enabled": true,
+      "id": "message-0048",
+      "status": "published"
+    },
+    {
+      "text": "Small progress is still progress.",
+      "category": "productivity",
+      "enabled": true,
+      "id": "message-0049",
+      "status": "published"
+    },
+    {
+      "text": "Focus on one task at a time.",
+      "category": "productivity",
+      "enabled": true,
+      "id": "message-0050",
+      "status": "published"
+    },
+    {
+      "text": "Checking off one item often builds momentum.",
+      "category": "productivity",
+      "enabled": true,
+      "id": "message-0051",
+      "status": "published"
+    },
+    {
+      "text": "Today's effort creates tomorrow's results.",
+      "category": "productivity",
+      "enabled": true,
+      "id": "message-0052",
+      "status": "published"
+    },
+    {
+      "text": "Consistency beats perfection.",
+      "category": "productivity",
+      "enabled": true,
+      "id": "message-0053",
+      "status": "published"
+    },
+    {
+      "text": "Confirm availability before quoting pricing.",
+      "category": "leasingTips",
+      "enabled": true,
+      "id": "message-0054",
+      "status": "published"
+    },
+    {
+      "text": "Personalize each interaction whenever possible.",
+      "category": "leasingTips",
+      "enabled": true,
+      "id": "message-0055",
+      "status": "published"
+    },
+    {
+      "text": "Follow up promptly after every tour.",
+      "category": "leasingTips",
+      "enabled": true,
+      "id": "message-0056",
+      "status": "published"
+    },
+    {
+      "text": "Listen first, recommend second.",
+      "category": "leasingTips",
+      "enabled": true,
+      "id": "message-0057",
+      "status": "published"
+    },
+    {
+      "text": "Clear communication builds confidence.",
+      "category": "leasingTips",
+      "enabled": true,
+      "id": "message-0058",
+      "status": "published"
+    },
+    {
+      "text": "Every interaction is an opportunity to leave a positive impression.",
+      "category": "customerService",
+      "enabled": true,
+      "id": "message-0059",
+      "status": "published"
+    },
+    {
+      "text": "People remember how you made them feel.",
+      "category": "customerService",
+      "enabled": true,
+      "id": "message-0060",
+      "status": "published"
+    },
+    {
+      "text": "Patience goes a long way.",
+      "category": "customerService",
+      "enabled": true,
+      "id": "message-0061",
+      "status": "published"
+    },
+    {
+      "text": "A warm greeting can set the tone for the entire conversation.",
+      "category": "customerService",
+      "enabled": true,
+      "id": "message-0062",
+      "status": "published"
+    },
+    {
+      "text": "Great service often comes down to great listening.",
+      "category": "customerService",
+      "enabled": true,
+      "id": "message-0063",
+      "status": "published"
+    },
+    {
+      "text": "Happy Friday!",
+      "category": "friday",
+      "enabled": true,
+      "id": "message-0064",
+      "status": "published"
+    },
+    {
+      "text": "Finish the week strong.",
+      "category": "friday",
+      "enabled": true,
+      "id": "message-0065",
+      "status": "published"
+    },
+    {
+      "text": "One more push before the weekend.",
+      "category": "friday",
+      "enabled": true,
+      "id": "message-0066",
+      "status": "published"
+    },
+    {
+      "text": "Hope you've had a productive week.",
+      "category": "friday",
+      "enabled": true,
+      "id": "message-0067",
+      "status": "published"
+    },
+    {
+      "text": "Happy Monday!",
+      "category": "monday",
+      "enabled": true,
+      "id": "message-0068",
+      "status": "published"
+    },
+    {
+      "text": "A new week means new opportunities.",
+      "category": "monday",
+      "enabled": true,
+      "id": "message-0069",
+      "status": "published"
+    },
+    {
+      "text": "Set the tone for a successful week.",
+      "category": "monday",
+      "enabled": true,
+      "id": "message-0070",
+      "status": "published"
+    },
+    {
+      "text": "Welcome to a fresh start.",
+      "category": "monday",
+      "enabled": true,
+      "id": "message-0071",
+      "status": "published"
+    },
+    {
+      "text": "Stay cool during today's warm weather.",
+      "category": "seasonal",
+      "enabled": true,
+      "id": "message-0072",
+      "status": "published"
+    },
+    {
+      "text": "Drive safely if conditions are slippery.",
+      "category": "seasonal",
+      "enabled": true,
+      "id": "message-0073",
+      "status": "published"
+    },
+    {
+      "text": "Enjoy the changing seasons.",
+      "category": "seasonal",
+      "enabled": true,
+      "id": "message-0074",
+      "status": "published"
+    },
+    {
+      "text": "Take advantage of the sunshine if you can.",
+      "category": "seasonal",
+      "enabled": true,
+      "id": "message-0075",
+      "status": "published"
+    },
+    {
+      "id": "quotes-0001",
+      "category": "Quotes",
+      "text": "Bubbles are great.",
+      "enabled": true,
+      "status": "published",
+      "priority": "asap",
+      "author": "Jimmy",
+      "year": 1962
+    }
+  ],
+  "updatedAt": "2026-07-20T20:37:32.390Z"
 }
