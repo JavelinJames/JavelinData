@@ -1,126 +1,166 @@
 {
-  "version": 1,
-  "description": "Editorial Whimsy only. JAVELIN retains all live location, weather, air-quality, holiday/date, time-of-day, idle, and welcome-back logic.",
+  "version": 2,
+  "description": "Editorial Whimsy library. JAVELIN controls greetings, weather, air quality, traffic, holidays, idle timing, reasons, fading, and non-repetition.",
   "messages": [
     {
       "message": "The unexamined life is not worth living.",
       "author": "Socrates",
-      "category": "philosophy"
+      "category": "philosophy",
+      "weight": "background"
     },
     {
       "message": "We are what we repeatedly do.",
       "author": "Will Durant, summarizing Aristotle",
-      "category": "philosophy"
+      "category": "philosophy",
+      "weight": "background"
     },
     {
       "message": "No person is free who is not master of themselves.",
       "author": "Epictetus",
-      "category": "philosophy"
+      "category": "philosophy",
+      "weight": "background"
     },
     {
       "message": "The happiness of your life depends upon the quality of your thoughts.",
       "author": "Marcus Aurelius",
-      "category": "philosophy"
+      "category": "philosophy",
+      "weight": "background"
     },
     {
       "message": "It is not things themselves that trouble us, but our judgments about them.",
       "author": "Epictetus",
-      "category": "philosophy"
+      "category": "philosophy",
+      "weight": "background"
     },
     {
       "message": "Wonder is the beginning of wisdom.",
       "author": "Socrates",
-      "category": "philosophy"
+      "category": "philosophy",
+      "weight": "background"
     },
     {
       "message": "The future depends on what you do today.",
       "author": "Mahatma Gandhi",
-      "category": "encouragement"
+      "category": "encouragement",
+      "weight": "casual"
     },
     {
       "message": "A little progress each day adds up to something substantial.",
       "author": "",
-      "category": "encouragement"
+      "category": "encouragement",
+      "weight": "casual"
     },
     {
       "message": "A clear next step is often more useful than a perfect long-term plan.",
       "author": "",
-      "category": "encouragement"
+      "category": "encouragement",
+      "weight": "casual"
     },
     {
       "message": "You do not need to solve the whole day at once.",
       "author": "",
-      "category": "encouragement"
+      "category": "encouragement",
+      "weight": "casual"
     },
     {
       "message": "The shortest known war lasted less than an hour.",
       "author": "",
-      "category": "fact"
+      "category": "fact",
+      "weight": "background"
     },
     {
       "message": "Octopuses have three hearts.",
       "author": "",
-      "category": "fact"
+      "category": "fact",
+      "weight": "background"
     },
     {
       "message": "A group of flamingos is called a flamboyance.",
       "author": "",
-      "category": "fact"
+      "category": "fact",
+      "weight": "background"
     },
     {
       "message": "Bananas are berries, while strawberries are not botanical berries.",
       "author": "",
-      "category": "fact"
+      "category": "fact",
+      "weight": "background"
     },
     {
       "message": "Honey can remain edible for an extraordinarily long time when sealed and kept dry.",
       "author": "",
-      "category": "fact"
+      "category": "fact",
+      "weight": "background"
     },
     {
       "message": "The Moon moves a few centimetres farther from Earth each year.",
       "author": "",
-      "category": "fact"
+      "category": "fact",
+      "weight": "background"
     },
     {
       "message": "Some days are for momentum. Others are for quietly getting organized.",
       "author": "",
-      "category": "observation"
+      "category": "observation",
+      "weight": "casual"
     },
     {
       "message": "A tidy inbox is not a personality, but it can feel like one.",
       "author": "",
-      "category": "humour"
+      "category": "humour",
+      "weight": "casual"
     },
     {
       "message": "There is a special kind of optimism in opening one more browser tab.",
       "author": "",
-      "category": "humour"
+      "category": "humour",
+      "weight": "casual"
     },
     {
       "message": "Coffee is not a workflow, though it often attends the meetings.",
       "author": "",
-      "category": "humour"
+      "category": "humour",
+      "weight": "casual"
     },
     {
       "message": "The best systems make the right thing easier to do.",
       "author": "",
-      "category": "observation"
+      "category": "observation",
+      "weight": "casual"
     },
     {
       "message": "Good questions tend to improve both the work and the conversation.",
       "author": "",
-      "category": "observation"
+      "category": "observation",
+      "weight": "casual"
     },
     {
       "message": "Small acts of clarity are surprisingly powerful.",
       "author": "",
-      "category": "observation"
+      "category": "observation",
+      "weight": "casual"
     },
     {
       "message": "A calm pace can still be a productive pace.",
       "author": "",
-      "category": "observation"
+      "category": "observation",
+      "weight": "casual"
     }
-  ]
+  ],
+  "schema": {
+    "category": [
+      "philosophy",
+      "quote",
+      "fact",
+      "humour",
+      "encouragement",
+      "observation"
+    ],
+    "weight": [
+      "critical",
+      "important",
+      "casual",
+      "background"
+    ]
+  }
 }
