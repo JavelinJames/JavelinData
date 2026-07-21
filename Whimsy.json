@@ -1,0 +1,2402 @@
+[
+  {
+    "message": "Octopuses have three hearts.",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly.",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not.",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer.",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year.",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks.",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed.",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater.",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Octopuses have three hearts. [9]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly. [10]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not. [11]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer. [12]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year. [13]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks. [14]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed. [15]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater. [16]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Octopuses have three hearts. [17]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly. [18]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not. [19]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer. [20]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year. [21]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks. [22]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed. [23]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater. [24]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Octopuses have three hearts. [25]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly. [26]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not. [27]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer. [28]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year. [29]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks. [30]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed. [31]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater. [32]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Octopuses have three hearts. [33]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly. [34]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not. [35]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer. [36]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year. [37]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks. [38]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed. [39]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater. [40]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Octopuses have three hearts. [41]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly. [42]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not. [43]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer. [44]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year. [45]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks. [46]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed. [47]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater. [48]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Octopuses have three hearts. [49]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly. [50]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not. [51]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer. [52]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year. [53]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks. [54]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed. [55]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater. [56]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Octopuses have three hearts. [57]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly. [58]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not. [59]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer. [60]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year. [61]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks. [62]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed. [63]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater. [64]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Octopuses have three hearts. [65]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly. [66]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not. [67]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer. [68]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year. [69]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks. [70]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed. [71]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater. [72]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Octopuses have three hearts. [73]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Honey never truly spoils when stored properly. [74]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Bananas are berries, but strawberries are not. [75]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The Eiffel Tower grows slightly taller in summer. [76]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "A day on Venus is longer than its year. [77]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Trees communicate through underground fungal networks. [78]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Saturn would float in water if a large enough ocean existed. [79]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "Some turtles can breathe through specialized tissues while underwater. [80]",
+    "author": "",
+    "category": "fact",
+    "weight": "background"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do.",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done.",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind.",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become.",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [6]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [7]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [8]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [9]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [10]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [11]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [12]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [13]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [14]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [15]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [16]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [17]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [18]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [19]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [20]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [21]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [22]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [23]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [24]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [25]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [26]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [27]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [28]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [29]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [30]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [31]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [32]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [33]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [34]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [35]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [36]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [37]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [38]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [39]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [40]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [41]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [42]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [43]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [44]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [45]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [46]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [47]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [48]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [49]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [50]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [51]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [52]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [53]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [54]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [55]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [56]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [57]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [58]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [59]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [60]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [61]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [62]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [63]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [64]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [65]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [66]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [67]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [68]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [69]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [70]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [71]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [72]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [73]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [74]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [75]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "The journey of a thousand miles begins with a single step. [76]",
+    "author": "Lao Tzu",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "We become what we repeatedly do. [77]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Well begun is half done. [78]",
+    "author": "Aristotle",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Fortune favors the prepared mind. [79]",
+    "author": "Louis Pasteur",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "What we think, we become. [80]",
+    "author": "Attributed to Buddha",
+    "category": "quote",
+    "weight": "casual"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [1]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [2]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [3]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [4]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [5]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [6]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [7]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [8]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [9]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [10]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [11]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [12]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [13]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [14]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [15]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [16]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [17]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [18]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [19]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [20]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [21]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [22]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [23]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [24]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [25]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [26]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [27]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [28]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [29]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [30]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [31]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [32]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [33]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [34]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [35]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [36]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [37]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [38]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [39]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [40]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [41]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [42]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [43]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [44]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [45]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [46]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [47]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [48]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [49]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [50]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [51]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [52]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [53]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [54]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [55]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [56]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [57]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [58]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [59]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Small, consistent improvements often outperform occasional bursts of effort. [60]",
+    "author": "",
+    "category": "philosophy",
+    "weight": "background"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [1]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [2]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [3]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [4]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [5]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [6]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [7]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [8]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [9]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [10]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [11]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [12]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [13]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [14]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [15]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [16]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [17]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [18]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [19]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [20]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [21]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [22]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [23]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [24]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [25]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [26]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [27]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [28]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [29]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [30]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [31]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [32]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [33]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [34]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [35]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [36]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [37]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [38]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [39]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [40]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [41]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [42]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [43]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [44]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [45]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [46]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [47]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [48]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [49]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [50]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [51]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [52]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [53]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [54]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [55]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [56]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [57]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [58]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [59]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Coffee has entered the meeting. Productivity is expected shortly. [60]",
+    "author": "",
+    "category": "humour",
+    "weight": "casual"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [1]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [2]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [3]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [4]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [5]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [6]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [7]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [8]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [9]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [10]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [11]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [12]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [13]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [14]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [15]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [16]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [17]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [18]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [19]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [20]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [21]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [22]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [23]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [24]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [25]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [26]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [27]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [28]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [29]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [30]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [31]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [32]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [33]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [34]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [35]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [36]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [37]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [38]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [39]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [40]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [41]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [42]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [43]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [44]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [45]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [46]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [47]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [48]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [49]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Every conversation is another chance to help someone find the right home. [50]",
+    "author": "",
+    "category": "encouragement",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [1]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [2]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [3]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [4]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [5]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [6]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [7]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [8]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [9]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [10]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [11]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [12]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [13]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [14]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [15]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [16]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [17]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [18]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [19]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [20]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [21]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [22]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [23]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [24]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [25]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [26]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [27]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [28]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [29]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [30]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [31]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [32]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [33]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [34]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [35]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [36]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [37]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [38]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [39]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "Some of the best workdays are built from many small wins rather than one big one. [40]",
+    "author": "",
+    "category": "observation",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [1]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [2]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [3]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [4]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [5]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [6]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [7]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [8]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [9]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [10]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [11]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [12]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [13]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [14]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [15]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [16]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [17]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [18]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [19]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [20]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [21]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [22]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [23]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [24]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [25]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [26]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [27]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [28]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [29]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  },
+  {
+    "message": "A little curiosity can turn an ordinary day into an interesting one. [30]",
+    "author": "",
+    "category": "general",
+    "weight": "background"
+  }
+]
